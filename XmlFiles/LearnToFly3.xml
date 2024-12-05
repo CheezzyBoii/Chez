@@ -1,6 +1,6 @@
 <Module>
 <ModulePrefs title="Learn to Fly 3"/>
 <Content type="html">
-<![CDATA[ <object xmlns="http://www.w3.org/1999/xhtml" data="https://cdn.jsdelivr.net/gh/CheezzyBoii/Chez/SwfFiles/LearnToFly3.swf" height="100%" type="application/x-shockwave-flash" width="100%"><param name="movie" value="" /> </object><script src="https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.1.0-nightly.2023.10.10/ruffle.js"></script> <script src="https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/addc4348-16c2-4645-9dff-f99b962e39ef%2Fscr.js"></script> ]]>
+<![CDATA[ <object xmlns="http://www.w3.org/1999/xhtml" data="https://cdn.jsdelivr.net/gh/CheezzyBoii/Chez@f23b555/SwfFiles/LearnToFly3.swf" height="100%" type="application/x-shockwave-flash" width="100%"><param name="movie" value="" /> </object><script src="https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.1.0-nightly.2023.10.10/ruffle.js"></script> <script src="https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/addc4348-16c2-4645-9dff-f99b962e39ef%2Fscr.js"></script> <script async src="https://www.googletagmanager.com/gtag/js?id=G-RR4WJHV7GL"></script> <script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-RR4WJHV7GL")</script> ]]>
 </Content>
 </Module>
